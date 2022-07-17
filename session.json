@@ -42,7 +42,7 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
       "details": "CLPh/sUFEM/qhZYGGAE=",
       "accountSignatureKey": "pEFDjCyltSGo2b92a6cbYdlxALKdtoEgFEm1DbRc6wM=",
       "accountSignature": "1pnl40ZN7/oujQzXQr8+ELBasI6enkGGi2m8csD8GUe7p18E0i6j2TOoWSJzZX8t4RW+J8SJ0bc9vLmoFumQDw==",
@@ -52,7 +52,7 @@
       "id": "94715166712:3@s.whatsapp.net",
       "verifiedName": "ᴍ ʀͥ  ɴ ɪͣ ᴍͫ ᴀ",
       "name": "ᴍ ʀͥ  ɴ ɪͣ ᴍͫ ᴀ"
-    },
+    }
     "signalIdentities": [
       {
         "identifier": {
